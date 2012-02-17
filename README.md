@@ -24,3 +24,8 @@ There are infinite solutions which come to my mind round robin fifo, depending o
 Support
 -------
 I am a novice engineer and looking for support, especially advice.
+
+Resources
+-------
+[adv-multi-internet](http://linux-ip.net/html/adv-multi-internet.html)
+
