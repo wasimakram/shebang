@@ -1,0 +1,15 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+*.swp
+.DS_Store
+.rvmrc
+.rbenv-version
+db/schema.rb
+config/database.yml
+.idea/*
+.sass-cache
+tmp
+Vagrantfile
+.vagrant
