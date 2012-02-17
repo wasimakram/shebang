@@ -6,9 +6,11 @@ what's possible and what can't be done.
 Problem
 -------
 On my laptop i have three internet connections.
-1. Wifi
-2. Lan
-3. 3G
+
+  1. Wifi
+  2. Lan
+  3. 3G
+
 But I can only use one.
 
 Solution
